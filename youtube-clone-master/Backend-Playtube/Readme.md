@@ -82,7 +82,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Yash-Zanzarukiya/PlayTube.git
+   git clone https://github.com/aditya-ti/Youtube-Clone
    ```
 
 2. **Install dependencies:**
